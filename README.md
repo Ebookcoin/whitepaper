@@ -1,4 +1,4 @@
-# ebookcoin-whitepaper - EBC 书链白皮书
+# ebookcoin-whitepaper - EBC 亿书白皮书
 
 
 加密货币驱动的电子书写作和版权保护应用
@@ -19,10 +19,6 @@ A decentralized application for eBook-writing and copyright-protection powered b
 ## 技术选型
 
 基于Nodejs，使用Express开发框架，在学习参考优秀的开源产品的基础上，完全自主开发完成。
-
-## 开发计划
-
-从即日起，利用一切闲散时间，力争在2年内（截至2018年2月20日）发布正式版。
 
 ## 开发策略
 
