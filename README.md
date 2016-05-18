@@ -9,7 +9,7 @@
 
 2016.05.01 v1.0
 
-[中文版](./亿书白皮书.pdf)
+[中文版](http://ebookchain.org/ebookchain.pdf)
 
 ## 作者
 
